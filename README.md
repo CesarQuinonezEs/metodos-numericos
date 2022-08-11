@@ -5,5 +5,4 @@
 
 <p>Solo se tiene por el momento la carpeta de pruebas</p>
 
-<a>Picale al boton!!!</a>
 
